@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="2;url=/adhome">
+    <title>Success</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #d4edda;
+            color: #155724;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background: #ffffff;
+            border: 1px solid #c3e6cb;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 16px;
+        }
+        /* Loading Badge Styles */
+        .loading {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 8px 16px;
+            font-size: 16px;
+            color: white;
+            background-color: #28a745;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .dot1, .dot2, .dot3 {
+            animation: blink 1.5s infinite;
+        }
+        .dot2 { animation-delay: 0.3s; }
+        .dot3 { animation-delay: 0.6s; }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Success</h1>
+        <p>{{ message }}</p>
+        <div class="loading">
+            Redirecting<span class="dot1">.</span><span class="dot2">.</span><span class="dot3">.</span>
+        </div>
+    </div>
+</body>
+</html>

